@@ -1,2 +1,2 @@
 SmartSDLC—AI-Enhanced software development lifecycle :
-import gradio as gr import torch from transformers import AutoTokenizer, AutoModelForCausalLM import
+https://drive.google.com/file/d/1DagiRMD9FxaGNbL6BHCnijxVRM-tTjtQ/view?usp=drivesdk
